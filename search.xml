@@ -1,12 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>好球！</title>
+    <url>/2022/02/01/haoqiu/</url>
+    <content><![CDATA[<p>欢迎闲逛</p>
+<span id="more"></span>
+<h2 id="nice-ball"><a href="#nice-ball" class="headerlink" title="nice ball"></a>nice ball</h2><h3 id="yidiesilie"><a href="#yidiesilie" class="headerlink" title="yidiesilie"></a>yidiesilie</h3>]]></content>
+      <categories>
+        <category>文明观球</category>
+      </categories>
+      <tags>
+        <tag>无聊的产物</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>flannel</title>
+    <url>/2022/02/05/flannel/</url>
+    <content><![CDATA[<p>flannel</p>
+<span id="more"></span>
+<h2 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h2><h3 id="不啦不啦"><a href="#不啦不啦" class="headerlink" title="不啦不啦"></a>不啦不啦</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ ip addr</span><br><span class="line">$ iptables-save %<span class="variable">$#</span>!$%@%<span class="comment">#</span></span><br></pre></td></tr></table></figure>
+
+
+
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>k8s</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>K8S</title>
+    <url>/2022/02/03/k8s/</url>
+    <content><![CDATA[<p>技术性文档</p>
+<span id="more"></span>
+<h2 id="k8s"><a href="#k8s" class="headerlink" title="k8s"></a>k8s</h2><h3 id="k8s看看看，ssl证书，累累累"><a href="#k8s看看看，ssl证书，累累累" class="headerlink" title="k8s看看看，ssl证书，累累累"></a>k8s看看看，ssl证书，累累累</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">kubectl get all -n kube-system -o wide</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>k8s</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>闲</title>
-    <url>/2022/02/09/hello%20world/</url>
+    <url>/2021/12/22/hello%20world/</url>
     <content><![CDATA[<p>欢迎闲逛</p>
 <span id="more"></span>
 <h2 id="闲"><a href="#闲" class="headerlink" title="闲"></a>闲</h2><h3 id="闲-1"><a href="#闲-1" class="headerlink" title="闲"></a>闲</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ <span class="built_in">echo</span> <span class="string">&#x27;xian&#x27;</span></span><br></pre></td></tr></table></figure>
 
 <h6 id="更多信息-My-Github"><a href="#更多信息-My-Github" class="headerlink" title="更多信息: My Github"></a>更多信息: <a href="https://github.com/jevywong">My Github</a></h6>]]></content>
+      <categories>
+        <category>闲聊</category>
+      </categories>
+      <tags>
+        <tag>无聊的产物</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Prometheus</title>
+    <url>/2022/02/05/prometheus/</url>
+    <content><![CDATA[<p>普罗米修斯</p>
+<span id="more"></span>
+<h2 id="警告告警123"><a href="#警告告警123" class="headerlink" title="警告告警123"></a>警告告警123</h2><h3 id="真tm麻烦"><a href="#真tm麻烦" class="headerlink" title="真tm麻烦"></a>真tm麻烦</h3><p>9090</p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>k8s</tag>
+        <tag>监控</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>嘻嘻哈哈</title>
+    <url>/2022/02/08/xixihaha/</url>
+    <content><![CDATA[<p>讲个笑话</p>
+<span id="more"></span>
+<h2 id="AAHPH，347w，下面没了"><a href="#AAHPH，347w，下面没了" class="headerlink" title="AAHPH，347w，下面没了"></a>AAHPH，347w，下面没了</h2>]]></content>
+      <categories>
+        <category>文明观球</category>
+      </categories>
+      <tags>
+        <tag>无聊的产物</tag>
+        <tag>笑嘻嘻</tag>
+      </tags>
   </entry>
 </search>
