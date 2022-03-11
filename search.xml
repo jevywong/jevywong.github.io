@@ -10,112 +10,8 @@
 ]]></content>
   </entry>
   <entry>
-    <title>K8S 交付配置中心：Apollo</title>
-    <url>/2022/02/11/k8s_Apollo/</url>
-    <content><![CDATA[<p>挖坑</p>
-]]></content>
-      <categories>
-        <category>运维</category>
-        <category>k8s</category>
-      </categories>
-      <tags>
-        <tag>k8s</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>K8S 二进制部署1.15.5版本</title>
-    <url>/2022/02/11/k8s_BinaryDeployment/</url>
-    <content><![CDATA[<p>挖坑</p>
-]]></content>
-      <categories>
-        <category>运维</category>
-        <category>k8s</category>
-      </categories>
-      <tags>
-        <tag>k8s</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>K8S 配置管理：ConfigMap</title>
-    <url>/2022/02/11/k8s_ConfigMap/</url>
-    <content><![CDATA[<p>挖坑</p>
-]]></content>
-      <categories>
-        <category>运维</category>
-        <category>k8s</category>
-      </categories>
-      <tags>
-        <tag>k8s</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>K8S 核心插件：coredns</title>
-    <url>/2022/02/11/k8s_CoreDns/</url>
-    <content><![CDATA[<p>挖坑</p>
-]]></content>
-      <categories>
-        <category>运维</category>
-        <category>k8s插件</category>
-      </categories>
-      <tags>
-        <tag>k8s</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>K8S Web管理方式：Dashboard</title>
-    <url>/2022/02/11/k8s_Dashboard/</url>
-    <content><![CDATA[<p>挖坑</p>
-]]></content>
-      <categories>
-        <category>运维</category>
-        <category>k8s</category>
-      </categories>
-      <tags>
-        <tag>k8s</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>K8S 交付dubbo服务到集群</title>
-    <url>/2022/02/11/k8s_DubboDeployment/</url>
-    <content><![CDATA[<p>挖坑</p>
-]]></content>
-      <categories>
-        <category>运维</category>
-        <category>k8s</category>
-      </categories>
-      <tags>
-        <tag>k8s</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>K8S 核心插件：Flannel</title>
-    <url>/2022/02/11/k8s_Flannel/</url>
-    <content><![CDATA[<p>挖坑</p>
-]]></content>
-      <categories>
-        <category>运维</category>
-        <category>k8s插件</category>
-      </categories>
-      <tags>
-        <tag>k8s</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>K8S 监控组件：Grafana</title>
-    <url>/2022/02/11/k8s_Grafana/</url>
-    <content><![CDATA[<p>挖坑</p>
-]]></content>
-      <categories>
-        <category>运维</category>
-        <category>k8s</category>
-      </categories>
-      <tags>
-        <tag>k8s</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>K8S 相关概念介绍</title>
-    <url>/2022/02/11/k8s_Introduction/</url>
+    <url>/2022/02/11/k8s12_Grafana/</url>
     <content><![CDATA[<p>挖坑</p>
 ]]></content>
       <categories>
@@ -128,7 +24,7 @@
   </entry>
   <entry>
     <title>K8S 监控组件：Prometheus</title>
-    <url>/2022/02/11/k8s_Prometheus/</url>
+    <url>/2022/02/11/k8s11_Prometheus/</url>
     <content><![CDATA[<p>挖坑</p>
 ]]></content>
       <categories>
@@ -140,8 +36,47 @@
       </tags>
   </entry>
   <entry>
-    <title>K8S 集群资源管理方法</title>
-    <url>/2022/02/11/k8s_ResourcesConfigManager/</url>
+    <title>K8S 交付配置中心：Apollo</title>
+    <url>/2022/02/11/k8s10_Apollo/</url>
+    <content><![CDATA[<p>挖坑</p>
+]]></content>
+      <categories>
+        <category>运维</category>
+        <category>k8s</category>
+      </categories>
+      <tags>
+        <tag>k8s</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>K8S 配置管理：ConfigMap</title>
+    <url>/2022/02/11/k8s09_ConfigMap/</url>
+    <content><![CDATA[<p>挖坑</p>
+]]></content>
+      <categories>
+        <category>运维</category>
+        <category>k8s</category>
+      </categories>
+      <tags>
+        <tag>k8s</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>K8S 交付dubbo服务到集群</title>
+    <url>/2022/02/11/k8s08_DubboDeployment/</url>
+    <content><![CDATA[<p>挖坑</p>
+]]></content>
+      <categories>
+        <category>运维</category>
+        <category>k8s</category>
+      </categories>
+      <tags>
+        <tag>k8s</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>K8S Web管理方式：Dashboard</title>
+    <url>/2022/02/11/k8s07_Dashboard/</url>
     <content><![CDATA[<p>挖坑</p>
 ]]></content>
       <categories>
@@ -154,12 +89,77 @@
   </entry>
   <entry>
     <title>K8S 核心插件：traefik</title>
-    <url>/2022/02/11/k8s_Traefik/</url>
+    <url>/2022/02/11/k8s06_Traefik/</url>
     <content><![CDATA[<p>挖坑</p>
 ]]></content>
       <categories>
         <category>运维</category>
         <category>k8s插件</category>
+      </categories>
+      <tags>
+        <tag>k8s</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>K8S 核心插件：coredns</title>
+    <url>/2022/02/11/k8s05_CoreDns/</url>
+    <content><![CDATA[<p>挖坑</p>
+]]></content>
+      <categories>
+        <category>运维</category>
+        <category>k8s插件</category>
+      </categories>
+      <tags>
+        <tag>k8s</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>K8S 核心插件：Flannel</title>
+    <url>/2022/02/11/k8s04_Flannel/</url>
+    <content><![CDATA[<p>挖坑</p>
+]]></content>
+      <categories>
+        <category>运维</category>
+        <category>k8s插件</category>
+      </categories>
+      <tags>
+        <tag>k8s</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>K8S 集群资源管理方法</title>
+    <url>/2022/02/11/k8s03_ResourcesConfigManager/</url>
+    <content><![CDATA[<p>挖坑</p>
+]]></content>
+      <categories>
+        <category>运维</category>
+        <category>k8s</category>
+      </categories>
+      <tags>
+        <tag>k8s</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>K8S 二进制部署1.15.5版本</title>
+    <url>/2022/02/11/k8s02_BinaryDeployment/</url>
+    <content><![CDATA[<p>挖坑</p>
+]]></content>
+      <categories>
+        <category>运维</category>
+        <category>k8s</category>
+      </categories>
+      <tags>
+        <tag>k8s</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>K8S 相关概念介绍</title>
+    <url>/2022/02/11/k8s01_Introduction/</url>
+    <content><![CDATA[<p>挖坑</p>
+]]></content>
+      <categories>
+        <category>运维</category>
+        <category>k8s</category>
       </categories>
       <tags>
         <tag>k8s</tag>
